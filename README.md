@@ -1,7 +1,7 @@
 # airline_ticket_crawler
 Airline ticket crawling using Interpark API
 
-# Used key librarise
+# Used key libraries
 - pandas
 - requests
 - sqlalchmey
